@@ -6,8 +6,11 @@ import Footer from "./components/Footer";
 const App = () => {
   return (
     <div className="App">
-      <Header content="The Job Board" />
-      <Jobs />
+      <Header title="The Job Board" />
+      <div className="container">
+        <Jobs />
+      </div>
+
       <Footer content="Made with React at Le Reacteur By Nono" />
     </div>
   );

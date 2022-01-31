@@ -9,6 +9,11 @@ h2 {
 p {
 }
 
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
 /* -----------------------------------------Header */
 .header_div {
   background-color: #333333;
@@ -19,6 +24,7 @@ p {
 }
 
 /* -----------------------------------------Jobs */
+
 .jobs_div {
   padding: 20px 80px;
   width: 1020px;
