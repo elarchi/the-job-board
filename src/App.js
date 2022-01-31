@@ -11,7 +11,7 @@ const App = () => {
         <Jobs />
       </div>
 
-      <Footer content="Made with React at Le Reacteur By Nono" />
+      <Footer content="Made with React at Le Reacteur By Emilie Leury" />
     </div>
   );
 };
