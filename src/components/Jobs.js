@@ -7,7 +7,7 @@ const Jobs = (props) => {
       <Job
         className="job_div red"
         title="Full Time Sales Associate - Sydney Boutique"
-        contractTyp="CDI"
+        contractType="CDI"
         country="Australie"
         city="Sydney"
       />
